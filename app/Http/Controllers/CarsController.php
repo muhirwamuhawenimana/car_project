@@ -61,7 +61,7 @@ class CarsController extends Controller
     }
 
     public function creaMyApp(){
-        return "Hello world";
+        return "Hello world bhshuwuueeu";
     }
     /**
      * Display the specified resource.
