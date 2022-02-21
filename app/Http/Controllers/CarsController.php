@@ -60,6 +60,9 @@ class CarsController extends Controller
         return redirect('/cars');
     }
 
+    public function creaMyApp(){
+        return "Hello world";
+    }
     /**
      * Display the specified resource.
      *
